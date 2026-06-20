@@ -1,0 +1,9 @@
+
+
+train: E:/TR/WHEAT/train/images
+val: E:/TR/WHEAT/valid/images
+test: E:/TR/WHEAT/test/images
+
+nc: 4
+names: ['barley yellow dwarf', 'healthy', 'leaf rust', 'powdery mildew']
+
